@@ -1,6 +1,6 @@
 ## "Hello there." - Obi-Wan Kenobi
 
-Olen aivovammainen. I am brain-damaged.
+Olen ICT-insinööriopiskelija. I am an ICT engineering student.
 
 <!--
 **Toope48/Toope48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
